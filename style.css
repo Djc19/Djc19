@@ -55,7 +55,7 @@ li {
   width: 70%;
 }
 
-*h {
+h1 {
   color: aqua;
   font-family: 'Amatic SC', cursive;
   font-size: 25px;
@@ -63,9 +63,14 @@ li {
   padding: 20px 10px;
   text-align: center;
 }
-*p {
+
+h2 {
+}
+
+p {
   font-family: serif;
   color: black;
+}
 
 .btn {
   background-color: orange;
@@ -74,6 +79,3 @@ li {
   text-decoration: none;
   font-family: arial;
 }
-h1 {
-  color: aqua;
-  font-family: Amatic sc;
